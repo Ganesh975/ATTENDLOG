@@ -93,7 +93,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
                 String s_classid=classid.getText().toString();
                 String s_classpassword=classpassword.getText().toString();
 
