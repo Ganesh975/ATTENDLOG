@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519007123126",
+    "project_id": "attendlog-98c75",
+    "storage_bucket": "attendlog-98c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519007123126:android:fdee7e46c572d74115d817",
+        "android_client_info": {
+          "package_name": "com.example.attendlog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn8Fcyb_xNH6krOVxBIuiLawPSeTPnSX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
